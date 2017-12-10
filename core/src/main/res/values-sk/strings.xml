@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Titles -->
+
+    <!-- Drag Option View -->
+    <string name="edit">Upraviť</string>
+
+    <!-- Desktop Option View -->
+
+    <!-- Toasts -->
+
+    <!-- Item Labels -->
+
+    <!-- Dialogs -->
+    <string name="cancel">Zrušiť</string>
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Toasts -->
+
+    <!-- Intro -->
+
+    <!-- Minibar -->
+
+    <!-- About -->
+    <string name="about_credit">Prispievatelia</string>
+    <string name="about_credit_text_all_contributors">Všetci prispievatelia</string>
+
+    <!-- Settings -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Item Labels -->
+
+    <!-- Dialogs -->
+    <string name="columns">Stĺpce</string>
+</resources>
